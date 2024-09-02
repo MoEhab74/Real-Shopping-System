@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|c:\\users\\bodae\\source\\repos\\realshoppingsystem\\realshoppingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|solutionrelative:realshoppingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\realshoppingsystem\\perfumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|solutionrelative:realshoppingsystem\\perfumes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\realshoppingsystem\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|solutionrelative:realshoppingsystem\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\realshoppingsystem\\mobiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|solutionrelative:realshoppingsystem\\mobiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\realshoppingsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|solutionrelative:realshoppingsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\realshoppingsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|solutionrelative:realshoppingsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\realshoppingsystem\\systemmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57ACB98-1B70-4D17-9862-94E7D1090B1C}|RealShoppingSystem\\RealShoppingSystem.csproj|solutionrelative:realshoppingsystem\\systemmangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfumes.cs",
+              "DocumentMoniker": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Perfumes.cs",
+              "RelativeDocumentMoniker": "RealShoppingSystem\\Perfumes.cs",
+              "ToolTip": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Perfumes.cs",
+              "RelativeToolTip": "RealShoppingSystem\\Perfumes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:26:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Electronics.cs",
+              "RelativeDocumentMoniker": "RealShoppingSystem\\Electronics.cs",
+              "ToolTip": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Electronics.cs",
+              "RelativeToolTip": "RealShoppingSystem\\Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:26:01.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mobiles.cs",
+              "DocumentMoniker": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Mobiles.cs",
+              "RelativeDocumentMoniker": "RealShoppingSystem\\Mobiles.cs",
+              "ToolTip": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Mobiles.cs",
+              "RelativeToolTip": "RealShoppingSystem\\Mobiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:25:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Product.cs",
+              "RelativeDocumentMoniker": "RealShoppingSystem\\Product.cs",
+              "ToolTip": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Product.cs",
+              "RelativeToolTip": "RealShoppingSystem\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:25:25.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\User.cs",
+              "RelativeDocumentMoniker": "RealShoppingSystem\\User.cs",
+              "ToolTip": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\User.cs",
+              "RelativeToolTip": "RealShoppingSystem\\User.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:50:48.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemMangement.cs",
+              "DocumentMoniker": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\SystemMangement.cs",
+              "RelativeDocumentMoniker": "RealShoppingSystem\\SystemMangement.cs",
+              "ToolTip": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\SystemMangement.cs",
+              "RelativeToolTip": "RealShoppingSystem\\SystemMangement.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAUwNoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:13:37.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RealShoppingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\bodae\\source\\repos\\RealShoppingSystem\\RealShoppingSystem\\Program.cs",
+              "RelativeToolTip": "RealShoppingSystem\\Program.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAkwGQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:48:49.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

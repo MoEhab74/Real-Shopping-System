@@ -1,0 +1,7 @@
+C:\Users\bodae\source\repos\RealShoppingSystem\RealShoppingSystem\bin\Debug\RealShoppingSystem.exe.config
+C:\Users\bodae\source\repos\RealShoppingSystem\RealShoppingSystem\bin\Debug\RealShoppingSystem.exe
+C:\Users\bodae\source\repos\RealShoppingSystem\RealShoppingSystem\bin\Debug\RealShoppingSystem.pdb
+C:\Users\bodae\source\repos\RealShoppingSystem\RealShoppingSystem\obj\Debug\RealShoppingSystem.csproj.AssemblyReference.cache
+C:\Users\bodae\source\repos\RealShoppingSystem\RealShoppingSystem\obj\Debug\RealShoppingSystem.csproj.CoreCompileInputs.cache
+C:\Users\bodae\source\repos\RealShoppingSystem\RealShoppingSystem\obj\Debug\RealShoppingSystem.exe
+C:\Users\bodae\source\repos\RealShoppingSystem\RealShoppingSystem\obj\Debug\RealShoppingSystem.pdb
